@@ -10,3 +10,5 @@ We provide three folders in our repository.
 - pca_computing.ipynb provides steps to compute the PC value for each episodes data.
 
 - clustering.ipynb provides steps to cluster the data based on PC values from pca_computing.ipynb.
+
+Shiny App: 
