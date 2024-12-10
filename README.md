@@ -11,4 +11,4 @@ We provide three folders in our repository.
 
 - clustering.ipynb provides steps to cluster the data based on PC values from pca_computing.ipynb.
 
-Shiny App: 
+Shiny App: https://pomania.shinyapps.io/spotify_episodes_clustering/
